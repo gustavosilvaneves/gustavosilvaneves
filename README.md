@@ -1,4 +1,3 @@
-## Olá! Sou o Gustavo! 👋
-
-
-
+🌟 Olá! Eu sou o Gustavo 👋
+🚀 Tecnologias que eu utilizo no dia a dia
+<p align="left"> <!-- TypeScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /> <!-- React --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /> <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /> <!-- HTML --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" /> <!-- CSS --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /> </p>
