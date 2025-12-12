@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout output branch
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
-          ref: output
+          ref: main
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -21,10 +21,10 @@ jobs:
           github_user_name: gustavosilvaneves
           svg_out_path: dist/snake.svg
 
-      - name: Commit and push
+      - name: Commit and push snake.svg to main
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add dist/snake.svg
           git commit -m "Generate Snake" || echo "No changes"
-          git push origin output
+          git push origin main
