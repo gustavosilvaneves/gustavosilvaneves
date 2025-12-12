@@ -1,5 +1,5 @@
 🌟 Bem-vindo ao meu perfil! Eu sou o Gustavo 👋
-<p align="center"> <img src="[img]https://i.imgur.com/hHOJMEP.jpeg[/img]" width="100%" alt="Banner" /> </p>
+<p align="center"> <img src="https://i.imgur.com/hHOJMEP.jpeg" width="100%" alt="Banner" /> </p>
 👨‍💻 Sobre mim
 
 Olá! Meu nome é Gustavo, e atuo profissionalmente como desenvolvedor Full Stack.
