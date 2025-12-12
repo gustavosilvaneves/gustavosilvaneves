@@ -1,4 +1,4 @@
-🌟 Bem-vindo ao meu perfil! Eu sou o Gustavo 👋
+Bem-vindo ao meu perfil! Eu sou o Gustavo 👋
 <p align="center"> <img src="https://i.imgur.com/hHOJMEP.jpeg" width="100%" alt="Banner" /> </p>
 👨‍💻 Sobre mim
 
