@@ -36,4 +36,5 @@ Aqui estão alguns destaques do que tenho construído:
 Sou movido pelo desafio de aprender, melhorar e criar algo maior a cada novo projeto.
 Se quiser trocar ideias, colaborar ou conversar sobre tecnologia, estarei sempre aberto!
 
-![Snake animation](https://raw.githubusercontent.com/gustavosilvaneves/gustavosilvaneves/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gustavosilvaneves/gustavosilvaneves/output/dist/snake.svg)
+
