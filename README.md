@@ -1,6 +1,5 @@
 ## Olá! Sou o Gustavo! 👋
 
-- ⚡ Hoje trabalho no ramo FullStack
-- ⚡ Utilizando e estudando TS + React
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosilvaneves&show_icons=true&theme=radical)
 
 
