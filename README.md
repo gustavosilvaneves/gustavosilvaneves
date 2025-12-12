@@ -11,6 +11,12 @@ Sou apaixonado por tecnologia, performance, boas práticas e por transformar ide
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /> </p>
 📊 Minhas estatísticas
 <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavosilvaneves&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvaneves&layout=compact&theme=tokyonight" /> </p>
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/gustavovianaveiga/gustavovianaveiga/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/gustavovianaveiga/gustavovianaveiga/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
 📌 Principais projetos
 
 Aqui estão alguns destaques do que tenho construído:
