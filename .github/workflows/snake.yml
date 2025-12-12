@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Gustavo-Silva
+          github_user_name: gustavosilvaneves
           svg_out_path: dist/snake.svg
 
       - name: Upload artifact
