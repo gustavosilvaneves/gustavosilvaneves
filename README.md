@@ -1,9 +1,5 @@
 # 👋 Gustavo Silva
 
-<p align="center"> 
-  <img src="https://i.imgur.com/hHOJMEP.jpeg" width="100%" alt="Banner" /> 
-</p>
-
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor Full Stack com foco em **TypeScript**, criando aplicações modernas, escaláveis e performáticas.  
